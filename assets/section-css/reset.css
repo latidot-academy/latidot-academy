@@ -462,6 +462,7 @@ textarea:focus {
 }
 input[type="number"] {
   -moz-appearance: textfield;
+  appearance: textfield;
 }
 select {
   border: 1px solid var(--ed-border-color);
