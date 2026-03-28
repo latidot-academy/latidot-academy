@@ -30,7 +30,7 @@
   bottom: 15px;
   left: 15px;
   padding: 10px 16px;
-  background: var(--ed-primary-color);
+  background: #fb6214;
   border-radius: 42px;
   color: var(--ed-white-color);
   font-size: 15px;
@@ -82,7 +82,7 @@
 }
 .ed-blog--style2 .ed-blog__category {
   position: initial;
-  background: #eeecfd;
+  background: #8118d213;
   color: var(--ed-primary-color);
 }
 .ed-blog--style2 .ed-blog__category:hover {
@@ -429,7 +429,6 @@
 }
 .ed-blog__tags ul li {
   display: inline-block;
-  grid-template-columns: ;
   margin-top: 8px;
   margin-right: 8px;
 }

@@ -2,15 +2,16 @@
     Start Breadcrumbs CSS
 ===================================================================================================*/
 .ed-breadcrumbs {
-  padding: 90px 0px;
-  background: #000;
+  padding: 114px 0px 54px 0px;
+  background: #8218d2;
 }
 .ed-breadcrumbs__content {
   text-align: center;
+  align-items: baseline;
+
 }
 .ed-breadcrumbs__title {
-  font-size: 36px;
-  margin-bottom: 24px;
+  font-size: 120px;
   line-height: 30px;
 }
 .ed-breadcrumbs__menu {
@@ -19,14 +20,14 @@
   gap: 6px;
 }
 .ed-breadcrumbs__menu li {
-  color: var(--ed-paragraph-color);
+  color: #320852;
   font-size: 16px;
   font-weight: 400;
   text-transform: uppercase;
 }
 
 .ed-breadcrumbs__menu li.active a {
-  color: #df4343;
+  color: #ffffff;
   font-weight: 500;
 }
 
@@ -41,7 +42,7 @@
     padding: 56px 0px;
   }
   .ed-breadcrumbs__title {
-    font-size: 32px;
+    font-size: 36px;
     margin-bottom: 16px;
   }
 }
@@ -50,7 +51,7 @@
   font-family: var(--ed-font-family-2);
   color: #fff;
   font-weight: 700;
-  line-height: 130%;
+  line-height: 88%;
 }
 
 /*================================================================================================

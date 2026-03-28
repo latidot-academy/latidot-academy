@@ -168,7 +168,7 @@
   color: var(--ed-white-color);
 }
 .ed-topbar__info-buttons .register-btn {
-  background: #5e41e4;
+  background: #fb6214;
 }
 .ed-topbar__info-buttons .login-btn {
   background: linear-gradient(180deg, #fff 0%, #d7e1d8 100%);
