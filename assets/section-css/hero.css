@@ -399,7 +399,7 @@
   position: absolute;
   top: 0;
   right: 0;
-  padding: 70px 70px;
+  padding: 70px 188px;
 }
 .ed-hero.ed-hero--style7 .ed-hero__img img {
   border-radius: 0px 0px 0px 50px;
@@ -943,7 +943,7 @@
   }
   .ed-hero__content-title {
     font-size: 38px;
-    line-height: 43px;
+    line-height: 20px;
     letter-spacing: 0;
     margin-bottom: 16px;
   }
